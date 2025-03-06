@@ -1,1 +1,1 @@
-# C-Simples
+# Exercícios simples em C
